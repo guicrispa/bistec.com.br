@@ -1,0 +1,255 @@
+
+/* tablet */
+@media (min-width: 621px) and (max-width:768px){
+    header .logo-bistec img:nth-child(1){
+        display: none;
+    }
+
+    .sticky .normal {
+        display: block;
+    }
+
+    header .logo-bistec img:nth-child(2){
+        display: none;
+    }
+
+    header .logo-bistec img:nth-child(3){
+        display: inherit;
+    }
+
+    header ul :hover > ul{
+        display: none !important;
+    }
+    
+    .header-bistec {
+        /* width: 100%; */
+        display: block;
+        padding: 10px 0;
+        background: #f3fafa;
+        border-bottom: 1px solid #b3b3b3;
+    }
+    
+    .logo-bistec img {
+        margin-left: 20px;
+    }
+
+    header .normal-menu li a{
+        font-size: 16px;
+        margin: 0;
+        letter-spacing: 0.5px;
+        text-align: left;
+        color: #141414;
+    }
+
+    .normal-menu{
+        text-align: center;
+        background-color: #f3fafa;
+        display: none;
+        position: absolute;
+        width: 100%;
+        right: 0;
+        font-size: 12px;
+        /* border-bottom: 1px solid #f3fafa; */
+    }
+    .normal:hover{
+        border: none;
+        color: #0c407c;
+        transition: 0.2s;
+    } 
+
+    .normal ion-icon:hover {
+        color: #0c407c;
+    }
+
+    .button_text:hover {
+        background: none;
+    }
+
+    header .normal-submenu li a:hover {
+        background: #141414;
+        color: white;
+        transition: 0.2s;
+    }
+
+    .normal-submenu ion-icon:hover {
+        font-size: 15px;
+        color: #141414;
+        margin-right: 5px;
+    }
+
+    #img-banner {
+        margin-top: 60px;
+    }
+
+    .button_icon {
+        background: none;
+        padding: 5px 0;
+        padding-left: 20px;
+    }
+
+    .click_portfolio_mobile:active > .button_store,
+    .click_portfolio_mobile:active > .button_support {
+        display: none;
+        transition: 0.5s;
+    } 
+
+    /* 
+     */
+
+    .logo-bistec {
+        align-items: flex-start;
+        margin: 0;
+    }
+
+    .menu-cell {
+        display: block;
+        float: right;
+        margin-right: 20px;
+        color: #fff;
+    }
+    .menu-cell li ion-icon {
+        color: #141414;
+        display: block;
+        padding: 0;
+        margin-top: 10px;
+        font-size: 35px;
+    }
+    .normal {
+        padding-left: 20px;
+    }
+
+    :focus-within > .normal-submenu {
+        display: none;
+    }
+
+    .normal-submenu{
+        display: none;
+        border: none;
+        width: 100%;
+        top: 30px;
+        /* margin: 0;
+        padding: 0; */
+    }
+
+    header .normal-submenu li a {
+        width: 100%;
+        padding: 10px 20px;
+        font-size: 12px;
+        box-shadow: none;
+        text-align: left;
+    }
+
+    .button {
+        width: 100%;
+        display: block;
+        height: 45px;
+        font-size: 16px;
+        border-radius: 0;
+        background: #0F5A20;
+    }
+
+    .button_text {
+        background: none;
+        color: #FFEF8F;
+    }
+
+    .button_icon {
+        border: none;
+        color: #FFEF8F;
+    }
+
+    .button:hover, .button:hover > .store_icon {
+        background: #141414;
+      }
+
+    .support_icon, .store_icon {
+        background: none;
+        padding: 5px 0;
+        padding-left: 20px;
+    }
+
+    .button_support {
+        width: 100%;
+        display: block;
+        height: 45px;
+        font-size: 16px;
+        border-radius: 0;
+        background: #0c407c;
+    }
+
+    .button_support:hover, .button_support:hover > .support_icon,
+    .button:hover, .button:hover > .store_icon {
+      background: #141414;
+    }
+
+    /*apresentação*/
+    .container{ 
+        max-width: 80%;
+    }
+
+    /* produtos */
+
+    .bistec-produtos {
+        flex-direction: column;
+        max-width: 90%;
+        /* display: grid; */
+        /* grid-template-columns: repeat(2, 1fr); */
+    }
+
+    .texto-produtos {
+      display: flex;
+      flex-direction: column;
+      margin: auto;
+      max-width: 85%;
+    }
+    .texto-produtos h2{
+      text-align: center;
+      font-size: 4.6vw;
+      font-weight: 500;
+    }
+    .texto-produtos h4{
+        text-align: center;
+        font-size: 3.2vw;
+        font-weight: 400;
+    }
+
+    /* rodapé */
+
+    .redes-sociais {
+        max-width: 85%;
+    }
+
+    footer ion-icon {
+        padding: 8px;
+        font-size: 4vh;
+    }
+
+    .contacts {
+        max-width: 75%;
+        grid-template-columns: repeat(1, 2fr);
+        font-size: 24px;
+    }
+
+    @media (prefers-color-scheme: dark) {
+        .normal-menu{
+            text-align: center;
+            background-color: #141414;
+        }
+
+        .menu-cell li ion-icon {
+            color: #f3fafa;
+        }
+
+        .normal:hover {
+            color: #f3fafa;
+        }
+
+        .support_icon {
+            background: none;
+        }
+
+        header .normal-menu li a{
+            color: #f3fafa;
+        }
+    }
+}

@@ -1,0 +1,277 @@
+
+.sticky {
+    background: #f3fafa;
+    transition: 0.5s;
+    border-bottom: 1px solid #b3b3b3;
+}
+
+.sticky .normal-submenu li a {
+    color: #141414;
+    background: #F3FAFA;
+    transition: 0.8s;
+}
+
+.sticky .normal-submenu li a:hover,
+.sticky .normal-submenu li a:focus-within {
+    background: #0c407c;
+    color: white;
+    transition: 0.2s;
+}
+.sticky .normal-submenu ion-icon {
+    font-size: 15px;
+    color: #141414;
+    margin-right: 5px;
+    transition: 0.5s;
+}
+
+.sticky .button {
+	background: #0F5A20;
+}
+
+.sticky .button:hover {
+	background: #115d23;
+}
+
+.sticky .button:active{
+	background: #146426;
+}
+
+.sticky .button_text,
+.sticky .button_icon {
+	display: inline-flex;
+	align-items: center;
+	padding: 0 10px;
+    background: none;
+	color: #FFEF8F;
+    height: 100%;
+    border: none;
+}
+
+.sticky .normal {
+	display: inline-flex;
+	height: 30px;
+	/* margin: 0 10px; */
+	color: #141414;
+	cursor: pointer;
+	font-size: 16px;
+	font-family: 'Inter', sans-serif;
+	font-weight: 700;
+	line-height: 2;
+	position: relative;
+	transition: 0.5s;
+}
+
+.sticky .normal ion-icon {
+    color: black;
+}
+
+.sticky .normal::after{
+    content: '';
+    bottom: 0;
+    position: absolute;
+    left: 50%;
+    width: 0%;
+    height: 4.5px;
+    background-color: #141414;
+    transition: 0.2s;
+} 
+
+.sticky .normal:hover::after{
+    left: 0;
+    width: 100%;
+} 
+
+
+.sticky .button_icon {
+	background: #0B4417;
+}
+
+.sticky .button_support {
+    background: #082e5e;
+}
+
+.sticky .button_support:hover {
+    background: #0b3e78;
+}
+
+.sticky .button_support:active{
+    background: #0e4583 ;
+}
+
+.sticky .support_icon {
+    background: #001E42;
+}
+
+@media (max-width: 768px){
+    .sticky .normal {
+        display: block;
+    }
+    
+    .sticky .button_support,
+    .sticky .support_icon {
+        background: #0c407c;
+        color: #fff;
+    }
+
+    .sticky .store_icon, 
+    .sticky .support_icon {
+        padding-left: 22px;
+        background: none;
+    }
+
+    .sticky .button_store:hover, .sticky .button_store:hover > .store_icon {
+        background: #141414;
+        color: #FFEF8F;
+    }
+
+    .sticky .button_support:hover{
+        background: #141414;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    @media (min-width: 769px) {
+        .sticky .button_text, 
+        .sticky .button_icon{
+            background: #a0c8f9; 
+            color: #141414;
+        }
+        
+        .sticky .button_icon {
+            border-right: 1px solid #141414;
+        }
+
+        .sticky .button:hover,
+        .sticky .button_support:hover {
+            background: #add1fd;
+        }
+        
+        .sticky .button:active,
+        .sticky .button_support:active{
+            background: #c5dfff;
+        }
+    }
+    .sticky {
+        background: #141414;
+        color: #f3fafa;
+        transition: 0.5s;
+        border-bottom: 1px solid #FFEF8F;
+    }
+
+    header .logo-bistec img:nth-child(1){
+        display: none;
+    }
+    header .logo-bistec img:nth-child(2){
+        display: inherit;
+    }
+
+    .sticky .normal-submenu li a {
+        color: #f3fafa;
+        background: #141414;
+        transition: 0.8s;
+    }
+    
+    .sticky .normal-submenu li a:hover,
+    .sticky .normal-submenu li a:focus-within {
+        background: #0c407c;
+        color: white;
+        transition: 0.2s;
+    }
+    .sticky .normal-submenu ion-icon {
+        font-size: 15px;
+        color: #f3fafa;
+        margin-right: 5px;
+        transition: 0.5s;
+    }
+    
+    .sticky .normal {
+        color: #ffffff;
+    }
+    
+    .sticky .normal ion-icon {
+        color: rgb(255, 255, 255);
+    }
+    
+    
+    .sticky .normal::after{
+        content: '';
+        bottom: 0;
+        position: absolute;
+        left: 50%;
+        width: 0%;
+        height: 4.5px;
+        background-color: #a0caf9;
+        transition: 0.2s;
+    } 
+    
+    .sticky .normal:hover::after{
+        left: 0;
+        width: 100%;
+    } 
+
+    @media (max-width: 768px) {
+
+        .sticky .normal {
+            display: block;
+        }
+
+        .sticky header .normal-menu li a {
+            display: block;
+        }
+        
+        .sticky .button_store .button_text {
+            color: #FFEF8F;
+            background: none;
+        }
+    
+        .sticky .menu-cell li ion-icon {
+            color: #f3fafa;
+        }
+    
+        .sticky header .normal-menu li a {
+            color: #f3fafa;
+        }
+        
+        .sticky .normal-menu {
+            text-align: center;
+            background-color: #141414;
+            color: #f3fafa;
+            border-bottom: none;
+        }
+    
+        .sticky .normal:hover{
+            border: none;
+            color: #f3fafa;
+            transition: 0.2s;
+        } 
+        .sticky .button_support,
+        .sticky .support_icon {
+            /* background: #0c407c; */
+            color: #FFEF8F;
+            border-right: none;
+            padding-left: 15px;
+        }
+
+        .sticky .button_store, .sticky .button_store .button_icon {
+            background: #0F5A20;
+            color: #FFEF8F;
+            border-right: none;
+            padding-left: 15px;
+        }
+
+
+        .sticky .button_store:hover, .sticky .button_store:hover > .store_icon {
+            background: #141414;
+            color: #FFEF8F;
+        }
+
+        .sticky .button_support:hover, .sticky .button_support:hover > .support_icon{
+            background: #141414;
+        }
+
+        .sticky .button_support .button_text {
+            color: #FFEF8F;
+            background: none;
+        }
+    }
+}

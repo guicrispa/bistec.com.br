@@ -1,0 +1,54 @@
+@media (min-width: 1025px) and (max-width: 1219px){
+    .container {
+        max-width: 58%;
+    }
+
+    .text_presentation {
+        padding: 2.8em;
+    }
+
+    .redes-sociais {
+        max-width: 80%;
+    }
+
+    footer ion-icon {
+        padding: 8px;
+        font-size: 4vh;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1024px){
+    .header-bistec {
+        padding: 2px 30px;
+    }
+
+    .container {
+        max-width: 65%;
+    }
+
+    .text_presentation {
+        padding: 2.8em;
+    }
+
+    .redes-sociais {
+        max-width: 80%;
+    }
+
+    .bistec-suporte h1 {
+        padding-top: 8vh;
+    }
+
+    footer ion-icon {
+        padding: 8px;
+        font-size: 4vh;
+    }
+}
+@media (prefers-color-scheme: dark){
+    @media (min-width: 769px) and (max-width: 1024px){
+        .header-bistec {
+            padding: 4px 0;
+        }
+
+        
+    }
+}
