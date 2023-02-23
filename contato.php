@@ -4,7 +4,7 @@
     </head>
     <article id="first_section" class="article_contact">
         <div class="formulario2">
-            <form method="POST" action="{{url('enviaContato')}}" >
+            <form method="POST" action="email/" >
                 <div class="campos">
                     <h1>Formulário para Contato</h1>
                     <label>Nome completo:</label><br>

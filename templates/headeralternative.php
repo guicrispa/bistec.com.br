@@ -27,6 +27,7 @@
     <link rel="stylesheet" href="./../assets/css/styleTv.css">
     <link rel="stylesheet" href="./../assets/css/styleDark.css">
     <link rel="stylesheet" href="./../assets/css/styleProdutos.css">
+    <link rel="stylesheet" href="./assets/css/styleEmail.css">
     <link rel="stylesheet" href="./../assets/css/sticky.css">
     <link rel="icon" href="https://ik.imagekit.io/bistecbr/simbolo.png">
 </head>
