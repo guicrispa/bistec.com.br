@@ -1,6 +1,7 @@
 <?php include('templates/header.php'); ?>
     <head>
         <link rel="stylesheet" href="./assets/css/styleContato.css"> 
+        <title>Entre em Contato Conosco - Bistec Brasil</title>
     </head>
     <article id="first_section" class="article_contact">
         <div class="formulario2">
