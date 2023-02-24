@@ -1,10 +1,11 @@
 <?php include('../templates/headeralternative.php'); ?>
 <article id="first_section">
     <section class="email-enviado">
-        <h1>Formulário Enviado!</h1>
-        <p>Enviamos uma cópia para o endereço ...</p>
-        <p>Caso não tenha recebido, pode ter ocorrigo algum problema no envio, tente enviar novame ou entre em contato por outro canal</p>
-        <ion-icon name="checkmark-circle-outline"></ion-icon>
+        <h1>Email Falhou</h1>
+        <p>Pode ser que estejamos com algum problema...</p>
+        <p>Mas tentamos enviar uma email para o endereço ... </p>
+        <p>Se o e-email estiver correto, tente nos contatar de outras formas. Mais informações no rodapé da página.</p>
+        <ion-icon name="thumbs-down" id="ionicEmailFalhou"></ion-icon>
     </section>
 </article>
 <?php include('../templates/footer.php'); ?>

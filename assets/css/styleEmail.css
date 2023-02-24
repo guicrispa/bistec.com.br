@@ -18,11 +18,12 @@
 
 .email-enviado ion-icon {
     font-size: 25vh;
-    color: rgb(46, 206, 81);
-    opacity: 0.3;
+    color: rgb(30, 246, 77);
+    opacity: 0.8;
 }
 .email-enviado #ionicEmailFalhou{
     color: rgb(244, 18, 18);
+    opacity: 0.8;
 }
 
 @media (max-width: 620px){
