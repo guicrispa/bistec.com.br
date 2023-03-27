@@ -50,7 +50,7 @@
                 <a href="contato.php" class="normal" >CONTATO</a>
             </li>
             <li>
-                <a href="portfolio.php" class="normal click_portfolio_mobile">PORTFÓLIO <ion-icon name="chevron-down-outline"></ion-icon></a>
+                <a href="produtos.php" class="normal click_portfolio_mobile">PORTFÓLIO <ion-icon name="chevron-down-outline"></ion-icon></a>
                 <ul class="normal-submenu">
                     <li><a href="./portfolio/automacao.php"><ion-icon name="at-sharp"></ion-icon> BISTEC AUTOMAÇÃO</a></li>
                     <li><a href="./portfolio/cloud.php"> <ion-icon name="cloud-done-sharp"></ion-icon> BISTEC CLOUD</a></li>

@@ -60,7 +60,7 @@ header .logo-bistec img:nth-child(2){
 header .logo-bistec img:nth-child(3){
     display: none;
     aspect-ratio: attr(width) / attr(height);
-}
+} 
 
 header ul {
 	display: inline-flex;

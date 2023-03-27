@@ -23,12 +23,6 @@
                             Entregamos soluções em tecnologia que atendem a todas as necessidades da sua empresa, unindo o que há de mais inovador com um atendimento personalizado.
                         </p>
                         <p>
-                            Entregamos soluções em tecnologia que atendem a todas as necessidades da sua empresa, unindo o que há de mais inovador com um atendimento personalizado.
-                        </p>
-                        <p>
-                            Entregamos soluções em tecnologia que atendem a todas as necessidades da sua empresa, unindo o que há de mais inovador com um atendimento personalizado.
-                        </p>
-                        <p>
                             Juntos transformaremos o seu negócio!
                         </p>
                     </div>
