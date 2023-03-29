@@ -3,7 +3,7 @@
             <a href="mailto:bistec@bistec.com.br" title="Bistec E-mail" target="_blank"><ion-icon name="mail" class="ionspecial"></ion-icon></a>
             <a href="https://facebook.com/bistecweb" title="Bistec Facebook" target="_blank"><ion-icon name="logo-facebook"></ion-icon></a>
             <a href="https://instagram.com/bistecweb" title="Bistec Instagram" target="_blank"><ion-icon name="logo-instagram"></ion-icon></a>
-            <a href="https://youtube.com/bistecweb" title="Bistec Youtube" target="_blank"><ion-icon name="logo-youtube"></ion-icon></a>
+            <a href="https://www.youtube.com/bistecweb?sub_confirmation=1" title="Bistec Youtube" target="_blank"><ion-icon name="logo-youtube"></ion-icon></a>
             <a href="https://www.twitter.com/bistecweb" title="Bistec Twitter" target="_blank"><ion-icon name="logo-twitter"></ion-icon></a>
             <a href="https://www.flickr.com/bistec" title="Bistec Flickr" target="_blank"><ion-icon name="logo-flickr"></ion-icon></a>
             <a href="https://soundcloud.com/bistecweb" title="Bistec Soundcloud" target="_blank"><ion-icon name="logo-soundcloud"></ion-icon></a>
@@ -35,7 +35,7 @@
             </div> 
 
             <div class="contact item3">
-                <a href="#first_section">
+                <a href="https://bistec.com.pt">
                     <img src="https://ik.imagekit.io/bistecbr/portugal.png" alt="Portugal País"  width="20" height="20"> Bistec Portugal
                 </a>
                 <p><a href="tel:+351308807114">+351 308 807 114</a></p>

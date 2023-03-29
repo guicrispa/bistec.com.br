@@ -11,11 +11,6 @@
                     <label>Nome completo:</label><br>
                     <input type="text" name="nomeRemetente" placeholder="Digite seu nome aqui" required>
                 </div>
-
-                <div class="campos">
-                    <label>Telefone-celular:</label><br>
-                    <input type="tel" name="telefoneRemetente" placeholder="(XX) XXXXX-XXXX"  required>
-                </div>
                 
                 <div class="campos">
                     <label>Seu endereço de e-mail:</label><br>

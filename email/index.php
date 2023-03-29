@@ -13,7 +13,7 @@
         // Corpo do email enviado para a Bistec
         $txtDestinatario="Você recebeu um email de ".$nomeRemetente.
         ".\n\n".
-        "Email do Remetende: ".$emailRemetente."\n\n".
+        "Email do Remetente: ".$emailRemetente."\n\n".
         "Conteúdo:\n".$conteudoEmail;
 
         // Corpo do email enviado para o cliente
@@ -27,7 +27,7 @@
 
         // Valida envio dos emails
         if(mail($emailDestinatario, $assuntoEmail, $txtDestinatario, $headersR)
-            && mail($emailRemetente, "Email entregue: ".$assuntoEmail, $txtRemetente, $headersD)
+            && mail($emailRemetente, "E-mail entregue. Assunto: ".$assuntoEmail, $txtRemetente, $headersD)
         ){
             $_SESSION['falha']=false;
             header('location: ./obrigado');
@@ -36,7 +36,8 @@
             $_SESSION['falha']=true;
             header('location: ./falha');
         } 
-    }else{
+    }
+    else{
         session_destroy();
         header('location: ../contato');
     }
