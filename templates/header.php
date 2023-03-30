@@ -47,7 +47,7 @@
                 <a href="index.php" class="normal" >HOME</a>
             </li>
             <li>
-                <a href="contato.php" class="normal" >CONTATO</a>
+                <a href="https://bistec.com.pt/br/contato" class="normal" >CONTATO</a>
             </li>
             <li>
                 <a href="produtos.php" class="normal click_portfolio_mobile">PORTFÓLIO <ion-icon name="chevron-down-outline"></ion-icon></a>
