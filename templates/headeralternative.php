@@ -18,6 +18,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Bistec Consultoria de TI. Desde 1999 fornecendo portfolio e serviços de Automação Comercial e Informática. Aproveite o melhor da tecnologia para seu negócio.">
+    <!-- google site verification -->
+    <meta name="google-site-verification" content="z_lH9tH0wbjtMz-3Gxh-qzwu25t_HTu6qWTVMIgMeiQ" />
+
     <title>Início - Bistec Brasil</title>
     <!-- @yield('style') -->
     <link rel="stylesheet" href="./../assets/css/style.css">

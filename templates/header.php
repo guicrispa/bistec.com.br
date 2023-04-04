@@ -18,6 +18,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Bistec Consultoria de TI. Desde 1999 fornecendo portfolio e serviços de Automação Comercial e Informática. Aproveite o melhor da tecnologia para seu negócio.">
+    <!-- google site verification -->
+    <meta name="google-site-verification" content="z_lH9tH0wbjtMz-3Gxh-qzwu25t_HTu6qWTVMIgMeiQ" />
+
     <title>Início - Bistec Brasil</title>
     <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="stylesheet" href="./assets/css/styleMobile.css">
@@ -64,7 +67,7 @@
                     <li><a href="./portfolio/renting.php"> <ion-icon name="reload-circle-sharp"></ion-icon> BISTEC RENTING</a></li>
                     <li><a href="./portfolio/sign.php"> <ion-icon name="log-in"></ion-icon> BISTEC SIGN</a></li>
                     <li><a href="./portfolio/soft.php"><ion-icon name="disc-sharp"></ion-icon> BISTEC SOFT</a></li>
-                    <li><a href="./portfolio/voip.php"> <ion-icon name="call"></ion-icon> BISTEC VOIP</a></li>
+                    <li><a href=". /portfolio/voip.php"> <ion-icon name="call"></ion-icon> BISTEC VOIP</a></li>
                     <li><a href="./portfolio/wifi.php"> <ion-icon name="wifi-sharp"></ion-icon>BISTEC WIFI</a></li>
                     <li><a href="./portfolio/xml.php"> <ion-icon name="document"></ion-icon> BISTEC XML</a></li>
                 </ul>
