@@ -98,7 +98,7 @@
         </section>
 
         <section class="bistec_tour">
-            <a href="tour.php" class="bistec_button_tour">Visite a sede da Bistec pelo seu navegador em um tour virtual.</a>
+            <a href="https://bistec.com.br/tour" class="bistec_button_tour">Visite a sede da Bistec pelo seu navegador em um tour virtual.</a>
         </section>
     </article>
 <?php include('templates/footer.php'); ?>
