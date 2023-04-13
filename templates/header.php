@@ -22,19 +22,19 @@
     <meta name="google-site-verification" content="z_lH9tH0wbjtMz-3Gxh-qzwu25t_HTu6qWTVMIgMeiQ" />
 
     <title>Início - Bistec Brasil</title>
-    <link rel="stylesheet" href="./assets/css/style.css">
-    <link rel="stylesheet" href="./assets/css/styleMobile.css">
-    <link rel="stylesheet" href="./assets/css/styleTablet.css">
-    <link rel="stylesheet" href="./assets/css/styleTelaQuadrada.css">
-    <link rel="stylesheet" href="./assets/css/styleTv.css">
+    <link rel="stylesheet" href="https://bistec.com.br/assets/css/style.css">
+    <link rel="stylesheet" href="https://bistec.com.br/assets/css/styleMobile.css">
+    <link rel="stylesheet" href="https://bistec.com.br/assets/css/styleTablet.css">
+    <link rel="stylesheet" href="https://bistec.com.br/assets/css/styleTelaQuadrada.css">
+    <link rel="stylesheet" href="https://bistec.com.br/assets/css/styleTv.css">
     <!-- <link rel="stylesheet" href="./assets/css/styleContato.css"> -->
-    <link rel="stylesheet" href="./assets/css/styleSuporte.css">
-    <link rel="stylesheet" href="./assets/css/styleEmail.css">
+    <link rel="stylesheet" href="https://bistec.com.br/assets/css/styleSuporte.css">
+    <link rel="stylesheet" href="https://bistec.com.br/assets/css/styleEmail.css">
     <!-- <link rel="stylesheet" href="./assets/css/stylePortfolio.css"> -->
-    <link rel="stylesheet" href="./assets/css/styleTour.css">
-    <link rel="stylesheet" href="./assets/css/styleDark.css">
-    <link rel="stylesheet" href="./assets/css/styleProdutos.css">
-    <link rel="stylesheet" href="./assets/css/sticky.css">
+    <link rel="stylesheet" href="https://bistec.com.br/assets/css/styleTour.css">
+    <link rel="stylesheet" href="https://bistec.com.br/assets/css/styleDark.css">
+    <link rel="stylesheet" href="https://bistec.com.br/assets/css/styleProdutos.css">
+    <link rel="stylesheet" href="https://bistec.com.br/assets/css/sticky.css">
     <link rel="icon" href="https://ik.imagekit.io/bistecbr/simbolo.png">
 </head>
 <body>
