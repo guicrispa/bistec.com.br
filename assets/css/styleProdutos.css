@@ -89,6 +89,11 @@ p .nice_button {
     .produto-texto .link_msp {
         color: #8bc2f1; 
     }
+
+    .bistec-edu-plataformas a:nth-child(2),
+    .bistec-edu-plataformas a:nth-child(4) {
+        display: block;
+    }
 }
 
 @media (max-width: 620px) {

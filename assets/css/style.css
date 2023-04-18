@@ -423,6 +423,34 @@ a {
 .bistec_button_tour:active, .button_presentation:active {
     background: linear-gradient(135deg, #186094, #073161);
 }
+
+/* página de tour */
+
+.bistec_tour_page {
+    max-width: 80%;
+    margin: auto;
+    padding: 5vh 0;
+    text-align: center;
+}
+
+.bistec_tour_page h1 {
+    font-size: 4vw;
+    padding-top: 8vh;
+    background-color: transparent;
+}
+
+.bistec_tour_page p {
+    font-size: 2vw;
+    padding: 1.75vh;
+    text-align: left;
+    background-color: transparent;
+}
+
+.bistec_tour_page p iframe {
+    width: 100%;
+    height: 450px;
+}
+
 /*--RODAPÉ---------------------------------------------*/
 footer{
     background-color: #262525;

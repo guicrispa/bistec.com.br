@@ -22,7 +22,7 @@
     <meta name="google-site-verification" content="z_lH9tH0wbjtMz-3Gxh-qzwu25t_HTu6qWTVMIgMeiQ" />
 
     <title>Início - Bistec Brasil</title>
-    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="../assets/css/style.css">
     <link rel="stylesheet" href="./assets/css/styleMobile.css">
     <link rel="stylesheet" href="./assets/css/styleTablet.css">
     <link rel="stylesheet" href="./assets/css/styleTelaQuadrada.css">

@@ -17,7 +17,9 @@
                 <a class="bt-dialog-teamviewer" href="http://download.teamviewer.com/download/TeamViewerQS_pt.exe">DOWNLOAD TEAMVIEWER</a>                   
 
             <p>Fale conosco também pelo <strong><a class="suporte-wpp" href="https://api.whatsapp.com/send?phone=5513992101945" target="_blank">WhatsApp Business no +55 13 4042-0777</a></strong> ou pelo <strong><a href="https://t.me/BISTEC_BOT" target="_blank" class="suporte-telegram">Telegram – Procure por Atendimento BISTEC.</a></strong> </p>
-       
+
+            <p>Realize uma análise completa da qualidade da sua conexão com a Internet utilizando o medidor SIMET. Clique no botão medir</p>
+            <p style="text-align: center"><iframe src="https://beta.simet.nic.br/widget.html" height="780" width="430" style="border:none"></iframe></p>
         </section>
     </article>
 <?php include('templates/footer.php'); ?>
