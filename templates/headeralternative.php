@@ -71,7 +71,7 @@
             </li>
 
             <li>
-                <a href="https://www.cupomfiscaleletronico.com.br/" target="_blank" class="store_support">
+                <a href="https://bistec.hipershops.com.br/" target="_blank" class="store_support">
                     <div class="button button_store">
                         <span class="button_icon store_icon"><ion-icon name="cart-outline"></ion-icon></span>
                         <span class="button_text">LOJA</span>

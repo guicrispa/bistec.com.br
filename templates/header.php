@@ -67,14 +67,14 @@
                     <li><a href="./portfolio/renting.php"> <ion-icon name="reload-circle-sharp"></ion-icon> BISTEC RENTING</a></li>
                     <li><a href="./portfolio/sign.php"> <ion-icon name="log-in"></ion-icon> BISTEC SIGN</a></li>
                     <li><a href="./portfolio/soft.php"><ion-icon name="disc-sharp"></ion-icon> BISTEC SOFT</a></li>
-                    <li><a href=". /portfolio/voip.php"> <ion-icon name="call"></ion-icon> BISTEC VOIP</a></li>
+                    <li><a href="./portfolio/voip.php"> <ion-icon name="call"></ion-icon> BISTEC VOIP</a></li>
                     <li><a href="./portfolio/wifi.php"> <ion-icon name="wifi-sharp"></ion-icon>BISTEC WIFI</a></li>
                     <li><a href="./portfolio/xml.php"> <ion-icon name="document"></ion-icon> BISTEC XML</a></li>
                 </ul>
             </li>
 
             <li>
-                <a href="https://www.cupomfiscaleletronico.com.br/" target="_blank" class="store_support">
+                <a href="https://bistec.hipershops.com.br/" target="_blank" class="store_support">
                     <div class="button button_store">
                         <span class="button_icon store_icon"><ion-icon name="cart-outline"></ion-icon></span>
                         <span class="button_text">LOJA</span>
