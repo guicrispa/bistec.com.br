@@ -31,7 +31,7 @@
     <!-- <link rel="stylesheet" href="./assets/css/styleContato.css"> -->
     <link rel="stylesheet" href="https://bistec.com.br/assets/css/styleSuporte.css">
     <link rel="stylesheet" href="https://bistec.com.br/assets/css/styleEmail.css">
-    <!-- <link rel="stylesheet" href="./assets/css/stylePortfolio.css"> -->
+    <link rel="stylesheet" href="https://bistec.com.br/assets/css/stylePortfolio.css">
     <link rel="stylesheet" href="https://bistec.com.br/assets/css/styleTour.css">
     <link rel="stylesheet" href="https://bistec.com.br/assets/css/styleDark.css">
     <link rel="stylesheet" href="https://bistec.com.br/assets/css/styleProdutos.css">
