@@ -6,7 +6,7 @@
     <article id="first_section">
         <!-- banner -->
         <section class="bistec_pag_portfolio">
-        <h1>Portfólio de Produtos</h1>
+        <h1 class="tituloportfolio">Portfólio de Produtos</h1>
             <a href="./portfolio/automacao.php">
                 <img src="https://ik.imagekit.io/bistecbr/produtos/bistec-automacao-intro.jpg" alt="Imagem de fundo do produto Bistec Automação">
             </a>

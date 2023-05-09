@@ -2,7 +2,7 @@
     background: linear-gradient(35deg, #f3fafa, #d1e5ff);
 } */
 
-article h1 {
+article .tituloportfolio {
     margin-top: 2.5em;
     text-align: center;
     font-size: 2em;
@@ -44,12 +44,12 @@ article h1 {
         background-color: #141414;
     }
 
-    article h1 {
+    article .tituloportfolio {
         color: #fff;
     }
 
     @media (max-width: 620px) {
-        article h1 {
+        article .tituloportfolio {
             color: #fff;
         }
     }
