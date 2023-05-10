@@ -21,7 +21,8 @@
         </section>
     </article>
 <?php include('templates/footer.php'); ?>
-
+    
+    <script src="https://bistec.com.br/assets/js/menu.js" defer async></script>
     <script>
         function headerDone() {
             var header = document.querySelector("header");
@@ -34,4 +35,3 @@
         }
         headerDone();
     </script>
-    <script src="/js/menu.js" defer async></script>

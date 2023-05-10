@@ -38,6 +38,15 @@
     <link rel="stylesheet" href="https://bistec.com.br/assets/css/sticky.css">
     <link rel="icon" href="https://ik.imagekit.io/bistecbr/simbolo.png">
 </head>
+<!-- Google tag (gtag.js) -->
+<script async src=" www.googletagmanager.com/gtag/js?id=G-YWQE98QMEN"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'G-YWQE98QMEN');
+</script>
 <body>
     <header class="header-bistec" id="#first_section">
         <a href="#first_section" class="skip-to-main-content-link">Subir para o conteúdo principal</a>
@@ -75,7 +84,7 @@
             </li>
 
             <li>
-                <a href="https://www.cupomfiscaleletronico.com.br/" target="_blank" class="store_support">
+                <a href="https://bistec.hipershops.com.br" target="_blank" class="store_support">
                     <div class="button button_store">
                         <span class="button_icon store_icon"><ion-icon name="cart-outline"></ion-icon></span>
                         <span class="button_text">LOJA</span>

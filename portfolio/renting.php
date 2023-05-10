@@ -44,4 +44,4 @@
         }
         headerDone();
     </script>
-    <script src="/js/menu.js" defer async></script>
+    <script src="https://bistec.com.br/assets/js/menu.js" defer async></script>
