@@ -1,4 +1,11 @@
-<!-- <?php include('templates/header.php'); ?>
+<?php include('templates/header.php'); ?>
+    <article id="first_section" class="article_contact" style="margin-top: 100px;">
+        <div class="formulario2" style="color: white; margin: 200px 20px 130px 20px; display: flex; flex-direction: column; justify-content: center;">
+            <h1 style="text-align: center;">Entre na página de contato aqui:</h1>
+            <a href="https://bistec.com.pt/br/contato" style="text-align: center; text-decoration: underline;">Bistec - Página de contato</a>
+        </div>
+    </article>
+<!--
     <head>
         <link rel="stylesheet" href="./assets/css/styleContato.css"> 
         <title>Entre em Contato Conosco - Bistec Brasil</title>
@@ -71,7 +78,7 @@
                 </form>
             </div>
         </div>
-    </article>
+    </article> -->
     
     <?php include('templates/footer.php'); ?>
 
@@ -88,4 +95,4 @@
             }            
         })
     </script>
-    <script src="/js/menu.js" defer async></script> -->
+    <script src="/js/menu.js" defer async></script>
